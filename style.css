@@ -1,0 +1,128 @@
+body{
+  padding: 0;
+  box-sizing: border-box;
+}
+.navbar{
+  background-color: white;
+}
+.navbar-brand {
+  font-size: 2.0rem;
+  color: cyan;
+}
+.navbar-toggler{
+  background: cyan;
+  padding: 10px;
+  border: none;
+  outline: none;
+}
+.ham1{
+  display: block;
+  width:21px;
+  height: 5px;
+
+  background-color: white;
+}
+.ham2{
+  display: block;
+  margin-top: 4px;
+  width:21px;
+  height: 5px;
+background-color: white;
+}
+.ham3{
+  display: block;
+  margin-top: 4px;
+  width: 21px;
+  height: 5px;
+background-color: white;
+}
+.nav-link{
+  color: cyan;
+}
+.nav-link:hover{
+  border-top: 4px cyan solid;
+}
+.dropdown-item{
+  color: cyan;
+}
+.dropdown-item:hover{
+  color: blue;
+  border-bottom: 2px cyan solid;
+}
+.c2 {
+  display: flex;
+}
+.f{
+  background: cyan;
+}
+.ic{
+  width: 100%;
+  height: 100%;
+}
+.st{
+  font-weight: bolder;
+}
+.cu{
+  color: cyan;
+}
+.bb{
+  border-bottom: cyan 3px solid;
+}
+.cb{
+  color: black;
+}
+.btn{
+  background: cyan;
+  color: white;
+}
+.btn:hover{
+  background: white;
+  color: cyan;
+}
+
+.fl{
+  text-decoration:none;
+  color: white;
+}
+.fa{
+  padding: 20px;
+ font-size: 30px;
+ width: 65px;
+
+ text-decoration: none;
+ margin: 5px 2px;
+}
+.fa-youtube{
+  color: cyan;
+  background: white;
+}
+.fa-youtube:hover{
+  color: red;
+}
+.fa-instagram{
+  color: cyan;
+  background: white;
+}
+.fa-instagram:hover{
+  color: #8a3ab9
+}
+.fa-google{
+  color: cyan;
+  background: white;
+}
+.fa-google:hover{
+  color: red;
+}
+.fa-linkedin{
+  color: cyan;
+  background: white;
+}
+
+.fa-facebook{
+  color: cyan;
+  background: white;
+}
+.fa-twitter{
+  color: cyan;
+  background: white;
+}
